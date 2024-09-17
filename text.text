@@ -1,0 +1,10 @@
+
+
+3. La página debe tener tanto un elemento figure o un elemento div con un id de img-div
+4. Dentro del elemento #img-div debe tener un elemento img con su correspondiente id="image"
+5. Dentro del elemento #img-div, debes ver un elemento con un id="img-caption" correspondiente que contiene contenido textual describiendo la imagen mostrada en #img-div
+6. Debe tener su correspondiente elemento id="tribute-info", que contendrá una descripción textual del sujeto de la página tributo
+
+7. Debes ver un elemento a con su id="tribute-link" correspondiente, que contiene información adicional sobre el tema de la página de homenaje. CONSEJO: Debes dar al elemento un atributo target y establecerlo como _blank para que tu enlace se abra en una nueva pestaña
+8. Tú #image debe usar las propiedades max-width y height para redimensionarse en función de la anchura de su elemento padre, sin sobrepasar su tamaño original
+9. Tu elemento img debe estar centrado con respecto al elemento que lo contiene
